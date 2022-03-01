@@ -1,0 +1,30 @@
+Design:
+Ansich war die Hauptidee eine möglichst einfach verständliche Struktur beizubehalten. Das hat mit ähnlichen oder gleichen Funktionsnamen angefangen, und
+erst richtig anwendung gefunden bei Funktionsaufbau und aufrufen damit Komplexität nicht ausarten kann und das Projekt verständlich auch aufwendigere
+Aufgaben erfüllen kann. Dementsprechen habe ich alle Datenbank-Operationen in meine
+
+
+Describe lessons learned:
+Mit einer neuen Sprache bei quasi Null anzufangen hat mir regerecht das fürchten gelehrt. Ich habe die Aufgabe sehr unterschätzt.
+Was mir dann auch zum Verhängniss geworden ist. Zu spätes anfangen war auch so ein Thema dass mir viel Stress gebracht hat.
+Größter Punkt aber war die größe des Projekts, und darin auch immer den Überblick zu behalten.
+
+
+Unittesting descicions:
+Meine Unittests behandelnd hauptsächlich String manipulation. Angefangen von Json handling mit jackson oder Tests ob Strings auch richtig eingelesen werden,
+und in Listen gespeichert werden.
+
+
+Unique Feature:
+Mein Unique Feature besteht daraus das ungebrauchte oder ungewollte Karten gescrapt werden können um für den User einen Nutzen aus
+schlechten Karten ziehen zu können. Wenn ein User eine Karte scrapped so wird diese von seinem Deck entfernt und quasi "zerstört".
+Der User erhält dafür eine Coin. Hintergedanke ist der, das man einen ungewollte Karte loswerden kann und trotzdem auch wenn geringen Wert daraus
+ziehen kann.
+
+
+Tracked Time:
+50-60h in den letzten zweieinhalb Wochen
+
+
+Git-Link:
+https://github.com/TechNoir97/MTCG-SWEN1.git
